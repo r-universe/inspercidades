@@ -1,0 +1,10 @@
+{
+  "id": 150813471,
+  "created_at": "2026-08-02T21:47:28.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["insperplot"]
+}
