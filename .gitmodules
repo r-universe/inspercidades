@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/inspercidades/inspercidades.r-universe.dev
 	branch = HEAD
+[submodule "insperplot"]
+	path = insperplot
+	url = https://github.com/inspercidades/insperplot
