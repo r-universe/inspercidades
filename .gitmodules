@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/inspercidades/inspercidades.r-universe.dev
 	branch = HEAD
+[submodule "inspercidados"]
+	path = inspercidados
+	url = https://github.com/inspercidades/inspercidados
 [submodule "insperplot"]
 	path = insperplot
 	url = https://github.com/inspercidades/insperplot
